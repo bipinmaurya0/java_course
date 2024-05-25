@@ -7,7 +7,7 @@ public class StartWebPage {
 
 	public static void main(String[] args) {
 		SpringApplication.run(StartWebPage.class, args);
-		System.out.println("Check started");
+		System.out.println("Check started-------------");
 	}
 
 }
